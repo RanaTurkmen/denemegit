@@ -10,7 +10,15 @@ public class AtmApp {
         //versin 4
         System.out.println("rana branch rana");
         //enver
+
         System.out.println("değişiklik yaptım");
         //nsb3
+
+        System.out.println("nsbkjf");
+        //nsb3
+        System.out.println("grgrgr");
+        System.out.println("");
+        System.out.println("nsb4 oluşturdum");
+
     }
 }
