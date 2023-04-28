@@ -19,6 +19,11 @@ public class AtmApp {
         System.out.println("grgrgr");
         System.out.println("");
         System.out.println("nsb4 oluşturdum");
+        
+        
+        
+        
+        //remote da değişiklik yaptım
 
     }
 }
